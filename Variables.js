@@ -36,3 +36,56 @@ var number2 = 0.2;
 var total= number1 + number2;
 total = total.toFixed(1)
 console.log(total)
+
+var price1 = 25;
+var price2 = 35;
+var total = price2 + price1;
+console.log(total);
+
+var price1 = 25;
+var price2 = 35;
+var total = price2 - price1;
+console.log(total);
+
+var price1 = 25;
+var price2 = 35;
+var total = price2 * price1;
+console.log(total);
+
+var price1 = 25;
+var price2 = 35;
+var total = price2 / price1;
+console.log(total);
+
+var price1 = 25;
+var price2 = 35;
+var total = price2 % price1;
+console.log(total);
+
+var price1 = 25;
+var price2 = 35;
+price2++;
+console.log(price2);
+
+var price1 = 25;
+var price2 = 35;
+price2--;
+console.log(price2);
+
+var price1 = 25;
+var name = 'ALU';
+var result = price1 + name;
+console.log(result);
+
+var price1 = 'Justin';
+var name = 'Bieber';
+var result = price1 + ' ' + name;
+console.log(result);
+
+
+
+
+
+
+
+
