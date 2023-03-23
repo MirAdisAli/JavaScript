@@ -109,8 +109,3 @@ console.log(result);
 var date = new Date('2023-03-24');
 // var result = Math.round(number);
 console.log(date);
-
-
-
-
-
