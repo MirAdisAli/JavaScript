@@ -72,15 +72,3 @@ console.log(part);
 var teaLine = ['Jamil', 'Kamal', 'Salam', 'Iqbal'];
 var part = teaLine.splice(2, 2);
 console.log(part);
-
-/*/var num = 0;
-while (num<15){
-    console.log(num);
-    num++;
-}/*/
-
-var num = 10;
-while (num <= 15){
-    console.log(num);
-    num++;
-}
